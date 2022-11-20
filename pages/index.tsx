@@ -38,9 +38,6 @@ const Home = ({netflixOriginals,
               <Row title="Trending Now" movies={trendingNow} />
               <Row title="Top Rated" movies={topRated} />
               <Row title="Action Thrillers" movies={actionMovies} />
-              {/* My List */}
-
-
               <Row title="Comedies" movies={comedyMovies} />
               <Row title="Scary Movies" movies={horrorMovies} />
               <Row title="Romance Movies" movies={romanceMovies} />
